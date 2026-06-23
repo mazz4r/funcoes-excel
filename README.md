@@ -41,14 +41,3 @@ e visualmente informativo, aplicando as principais ferramentas do Excel.
 
 **Outros recursos:** formatação condicional, validação de dados, 
 congelamento de painéis, remoção de duplicatas, barras de dados
-
-## 💡 Principais insights
-
-- Comédias dominam em volume (41 filmes), mas Animações lideram
-  em bilheteria média
-- A diferença entre Audience Score e Rotten Tomatoes revela gêneros
-  que dividem público e crítica
-- O Top 10 de bilheteria é concentrado em poucos gêneros,
-  sugerindo padrões de consumo do período
-
-## 📁 Arquivos
